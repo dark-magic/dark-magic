@@ -27,8 +27,6 @@ While the dark arts have a bad reputation, overall, dark magic is not, by defini
 ![Flag Football (sports)](https://img.shields.io/static/v1?label=sports&message=Flag%20Football&color=orange&style=for-the-badge)
 ![Burgers (food)](https://img.shields.io/static/v1?label=food&message=Burgers&color=orange&style=for-the-badge)
 
-> “Drink cactus juice! It'll quench ya! Nothing's quenchier, it's the quenchiest!” - Sokka
-
 <!--
 **dark-magic/dark-magic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
