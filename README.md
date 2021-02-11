@@ -3,7 +3,8 @@ While the dark arts have a bad reputation, overall, dark magic is not, by defini
 
 > "Curiosity is not a sin…. But we should exercise caution with our curiosity… yes, indeed." — Albus Dumbledore
 
----
+<br>
+
 ### The programming languages I use for my spells 🧙‍
 ![JavaScript (expert)](https://img.shields.io/static/v1?label=JavaScript&logo=JavaScript&logoColor=eeeeee&message=expert&color=blue&style=for-the-badge)
 ![Java (advanced)](https://img.shields.io/static/v1?label=Java&logo=Java&logoColor=eeeeee&message=advanced&color=green&style=for-the-badge)
