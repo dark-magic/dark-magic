@@ -4,7 +4,7 @@
 While the dark arts have a bad reputation, overall, dark magic is not, by definition, "evil" magic. Indeed, dark magic can be used for good as well as evil. (see [Harry Potter Dark Arts](https://harrypotter.fandom.com/wiki/Dark_Arts))
 
 > "Curiosity is not a sin…. But we should exercise caution with our curiosity… yes, indeed." — Albus Dumbledore
-
+<br>
 
 ### The programming languages I use for my spells 🧙‍
 ![JavaScript (expert)](https://img.shields.io/static/v1?label=JavaScript&logo=JavaScript&logoColor=eeeeee&message=expert&color=blue&style=for-the-badge)
