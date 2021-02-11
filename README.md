@@ -1,7 +1,7 @@
 ![Header - Hogwarts](https://images.ctfassets.net/usf1vwtuqyxm/3QQaEkThAnIAiXveGhJYD9/f79a571dbe9fd456d65e783040601fdc/hogwarts-castle-.jpg?fm=jpg)
 
 ### Yo there, welcome to dark magic 👋
-While the dark arts have a bad reputation, overall, dark magic is not, by definition, "evil" magic. Indeed, dark magic can be used for good as well as evil. (see [Harry Potter Dark Arts](https://harrypotter.fandom.com/wiki/Dark_Arts))
+While the dark arts have a bad reputation, overall, dark magic is not, by definition, "evil" magic. Indeed, dark magic can be used for good as well as evil. (see [Harry Potter - Dark Arts](https://harrypotter.fandom.com/wiki/Dark_Arts))
 
 > “Curiosity is not a sin…. But we should exercise caution with our curiosity… yes, indeed.” — Albus Dumbledore
 <br>
