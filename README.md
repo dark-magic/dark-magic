@@ -18,7 +18,7 @@ While the dark arts have a bad reputation, overall, dark magic is not, by defini
 > "Differences of habit and language are nothing at all if our aims are identical and our hearts are open." — Albus Dumbledore
 <br>
 
-### Apart from programming I like
+### Apart from programming I like 😎
 ![Harry Potter (books & movies)](https://img.shields.io/static/v1?label=books%20%26%20movies&message=Harry%20Potter&color=orange&style=for-the-badge)
 ![Avatar (series)](https://img.shields.io/static/v1?label=series&message=Avatar&color=orange&style=for-the-badge)
 ![Attack on Titan (anime)](https://img.shields.io/static/v1?label=anime&message=Attack%20on%20Titan&color=orange&style=for-the-badge)
