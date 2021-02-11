@@ -22,7 +22,9 @@ While the dark arts have a bad reputation, overall, dark magic is not, by defini
 ![Harry Potter (books & movies)](https://img.shields.io/static/v1?label=books%20%26%20movies&message=Harry%20Potter&color=orange&style=for-the-badge)
 ![Avatar (series)](https://img.shields.io/static/v1?label=series&message=Avatar&color=orange&style=for-the-badge)
 ![Attack on Titan (anime)](https://img.shields.io/static/v1?label=anime&message=Attack%20on%20Titan&color=orange&style=for-the-badge)
+![Happy Hardcore (music)](https://img.shields.io/static/v1?label=music&message=Happy%20Hardcore&color=orange&style=for-the-badge)
 ![Formula 1 (sports)](https://img.shields.io/static/v1?label=sports&message=Formula%201&color=orange&style=for-the-badge)
+![Flag Football (sports)](https://img.shields.io/static/v1?label=sports&message=Flag%20Football&color=orange&style=for-the-badge)
 ![Burgers (food)](https://img.shields.io/static/v1?label=food&message=Burgers&color=orange&style=for-the-badge)
 
 <!--
