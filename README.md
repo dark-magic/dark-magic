@@ -25,8 +25,8 @@ While the dark arts have a bad reputation, overall, dark magic is not, by defini
 ![Happy Hardcore (music)](https://img.shields.io/static/v1?label=music&message=Happy%20Hardcore&color=orange&style=for-the-badge)
 ![Formula 1 (sports)](https://img.shields.io/static/v1?label=sports&message=Formula%201&color=orange&style=for-the-badge)
 ![Flag Football (sports)](https://img.shields.io/static/v1?label=sports&message=Flag%20Football&color=orange&style=for-the-badge)
-![Escape Rooms (other)](https://img.shields.io/static/v1?label=other&message=Escape%20Rooms&color=orange&style=for-the-badge)
 ![Burgers (food)](https://img.shields.io/static/v1?label=food&message=Burgers&color=orange&style=for-the-badge)
+![Escape Rooms (other)](https://img.shields.io/static/v1?label=other&message=Escape%20Rooms&color=orange&style=for-the-badge)
 
 <!--
 **dark-magic/dark-magic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
