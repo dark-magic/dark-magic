@@ -39,10 +39,11 @@ While the dark arts have a bad reputation, overall, dark magic is not, by defini
 #### Lately
 - A jsdoc parser (decided to postpone this project till I have more time to focus on it)
 - [tree-sitter clojure parser (basics are done, just need to add tests, but yeah you know how it goes)](https://github.com/dark-magic/tree-sitter-clojure)
-- [JS-setups, currently just a repo with some setup guides. Thinking of making a full app around this](https://github.com/dark-magic/js-setups)
 
 #### Actively
+- [Clojurius - A magical coding game teaching you the best spells clojure has to offer](https://github.com/dark-magic/Clojurius)
 - An order systems for restaurants which allow customers to order their food from a tablet / their phones at their table instead of those kiosks. (private school repo)
+
 
 <!--
 **dark-magic/dark-magic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
