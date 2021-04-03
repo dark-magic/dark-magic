@@ -34,7 +34,7 @@ While the dark arts have a bad reputation, overall, dark magic is not, by defini
 
 ### Latests/Current Projects
 #### Last summer ☀😎
-- [Compiler for a finctional YAPL language implemented with ANTLR](https://github.com/dark-magic/ANTLR-Compiler)
+- [Compiler for a functional YAPL language implemented with ANTLR](https://github.com/dark-magic/ANTLR-Compiler)
 
 #### Lately
 - [tree-sitter clojure parser (basics are done, just need to add tests, but yeah you know how it goes)](https://github.com/dark-magic/tree-sitter-clojure)
