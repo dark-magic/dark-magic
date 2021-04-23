@@ -30,20 +30,6 @@ While the dark arts have a bad reputation, overall, dark magic is not, by defini
 ![Brave Eduardo (upcoming games)](https://img.shields.io/static/v1?label=Upcoming%20games&message=Brave%20Eduardo&color=orange&style=for-the-badge)
 ![Ashes of Creation (upcoming games)](https://img.shields.io/static/v1?label=Upcoming%20games&message=Ashes%20of%20Creation&color=orange&style=for-the-badge)
 
-<br>
-
-### Latests/Current Projects
-#### Last summer ☀😎
-- [Compiler for a functional YAPL language implemented with ANTLR](https://github.com/dark-magic/ANTLR-Compiler)
-
-#### Lately
-- [tree-sitter clojure parser (basics are done, just need to add tests, but yeah you know how it goes)](https://github.com/dark-magic/tree-sitter-clojure)
-
-#### Actively
-- [Clojurius - A magical coding game teaching you the best spells clojure has to offer](https://github.com/dark-magic/Clojurius)
-- An order systems for restaurants which allow customers to order their food from a tablet / their phones at their table instead of those kiosks. (private school repo)
-
-
 <!--
 **dark-magic/dark-magic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
