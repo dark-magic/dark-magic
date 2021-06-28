@@ -1,5 +1,5 @@
 ### Yo there, I'm Lancear 👋
-I'm simply a guy who likes coding and being creative! I just finished the HTL Villach, a secondary high school focused on software engineering, and now enjoying the summer holidays with some own projects before going to university!
+I'm simply a guy who likes coding and being creative! I just finished the HTL Villach, a secondary high school focused on software engineering, and am now enjoying the summer holidays with some own projects before going to university!
 
 ### The programming languages I use 🧙‍♂️
 ![JavaScript (expert)](https://img.shields.io/static/v1?label=JavaScript&logo=JavaScript&logoColor=eeeeee&message=expert&color=blue&style=for-the-badge)
