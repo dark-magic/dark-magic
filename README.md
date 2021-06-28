@@ -15,7 +15,7 @@ I'm simply a guy who likes coding and being creative! I just finished the HTL Vi
 🙃 I love to watch F1, Avatar, Harry Potter, and AoT!<br>
 🎧 I like to vibe to Happy Hardcore, EDM, and Rock music!
 
-### Currently working on
+### Currently working on 😎
 🛏️ [An app which helps you manage a polyphasic sleep schedule](https://github.com/scarcheek/SleepScheduler)<br>
 🌳 [A Clojure parser using Tree-sitter](https://github.com/Lancear/Clojurius)
 
