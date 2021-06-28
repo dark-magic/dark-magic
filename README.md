@@ -17,7 +17,7 @@ I'm simply a guy who likes coding and being creative! I just finished the HTL Vi
 
 ### Currently working on 😎
 🛏️ [An app which helps you manage a polyphasic sleep schedule](https://github.com/scarcheek/SleepScheduler)<br>
-🌳 [A Clojure parser using Tree-sitter](https://github.com/Lancear/Clojurius)
+🌳 [A Clojure parser using tree-sitter](https://github.com/Lancear/Clojurius)
 
 <!--
 **dark-magic/dark-magic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
