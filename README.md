@@ -7,6 +7,7 @@ I'm simply a guy who likes coding and being creative! I just finished the HTL Vi
 ![C# (advanced)](https://img.shields.io/static/v1?label=C%23&logo=C-Sharp&logoColor=eeeeee&message=advanced&color=green&style=for-the-badge)
 ![HTML/CSS (advanced)](https://img.shields.io/static/v1?label=HTML%2fCSS&logo=HTML5&logoColor=eeeeee&message=advanced&color=green&style=for-the-badge)
 ![Clojure (familiar)](https://img.shields.io/static/v1?label=Clojure&logo=Clojure&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
+![Flutter (familiar)](https://img.shields.io/static/v1?label=Flutter&logo=Flutter&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 ![C/C++ (familiar)](https://img.shields.io/static/v1?label=C%2fC%2b%2b&logo=C%2b%2b&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 ![PHP (familiar)](https://img.shields.io/static/v1?label=PHP&logo=PHP&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 
